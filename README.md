@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard---Power-BI
 
-Hr-Analytics-Dashboard---Power-BI
+
 📊 HR Analytics Dashboard – Power BI Project
 
 📌 Project Overview:
